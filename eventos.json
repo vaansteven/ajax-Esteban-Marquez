@@ -1,0 +1,23 @@
+{"eventos": [
+    {
+      "id": 1,
+      "nombre": "Afrojack",
+      "precio": 200,
+      "stock": 250,
+      "img":"'/https://ibb.co/rZGJkHp-prox.webpp'"
+    },
+    {
+      "id": 2,
+      "nombre": "Claptone",
+      "precio": 400,
+      "stock": 200,
+      "img": "https://ibb.co/CmCvSbC"
+    },
+    {
+      "id": 3,
+      "nombre": "Swedish house mafia",
+      "precio": 600,
+      "stock": 300,
+      "img": "https://ibb.co/Sx1qtM4"
+    }
+  ]}
